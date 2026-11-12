@@ -47,7 +47,6 @@ This project answers it by:
 
 ## 📊 Dashboards
 - **Excel** (`Lung_Cancer_Dashboard.xlsx`): 4 KPI cards, 7 charts, age × radon heatmap, and 5 dropdown filters that update everything.
-- **Power BI**: see `PowerBI_Dashboard_Guide.md` for DAX measures, layout, and the colour theme.
 
 > 📸 Add your dashboard screenshots here: `![Dashboard](images/dashboard.png)`
 
